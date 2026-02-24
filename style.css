@@ -1,7 +1,17 @@
 body {
     text-align: center;
+    background-color: #efece3;
+    overflow: hidden;
+    margin: 0;
+}
+
+
+.boxed {
     background-color: #fffcf6;
-    
+    align-self: center;
+    width: 75%;
+    margin: auto;
+    height: 1000px;
 }
 
 h1 {
@@ -34,15 +44,15 @@ hr {
 }
 
 #subtitle {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 #message {
     border-radius: 15px;
-    height: 100px;
+    height: 90px;
     width: 550px;
     background-color: #8fabd4;
-    padding-top: 60px;
+    padding-top: 50px;
     margin: auto;
     position: relative;
     font-size: 40px;
