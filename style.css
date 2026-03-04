@@ -50,7 +50,7 @@ hr {
 #message {
     border-radius: 15px;
     height: 90px;
-    width: 550px;
+    width: 750px;
     background-color: #8fabd4;
     padding-top: 50px;
     margin: auto;
@@ -63,7 +63,7 @@ hr {
     padding-top: 220px;
 }
 
-.button {
+#button {
     background-color: #8fabd4;
     color: #fffcf6;
     font-size: 20px;
@@ -75,6 +75,6 @@ hr {
     border: none;
 }
 
-.button:hover {
+#button:hover {
     background-color: #4a70a9;
 }
