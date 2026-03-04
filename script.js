@@ -10,7 +10,7 @@ const NameStorage = {
         let middle = Math.floor(Math.random() * this._middle.length);
         let last = Math.floor(Math.random() * this._last.length);
 
-        return `My name is ${this._first[first]} ${this._middle[middle]} ${this._last[last]}!`;
+        return `${this._first[first]} ${this._middle[middle]} ${this._last[last]}!`;
     }
 };
 
